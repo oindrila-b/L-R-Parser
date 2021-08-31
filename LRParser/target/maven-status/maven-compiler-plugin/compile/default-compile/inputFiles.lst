@@ -1,0 +1,14 @@
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr0/LR0Item.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr0/LR0State.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr1/LR1Item.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr1/LR1State.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/utils/Rule.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr0/LR0Parser.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/gui/Main.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/utils/ActionType.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/gui/GrammarInputController.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/gui/OutputController.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/utils/Action.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/utils/Grammar.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/lr1/LR1Parser.java
+/home/ohh/Workspace_Combined/IntelliJ_IDEA/LRParser/src/main/java/utils/LRParser.java
